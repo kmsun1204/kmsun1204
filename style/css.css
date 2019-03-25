@@ -1,0 +1,53 @@
+h1{
+    color: red;
+}
+div.top_nav {
+    text-align: right;
+    margin-right: 7px;
+}
+div.top_nav > p {
+    display: inline;
+}
+
+div.container > img {
+    width: 400px;
+}
+
+div.mb-3{
+     width:600px;
+}
+
+
+div.input-group.mb-3 > input{
+
+    border-radius: 50px;
+    background-color: lightgrey;
+}
+
+
+
+
+div.row{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+   }
+
+
+
+
+div.card-a > img{
+           display: block;
+        width: auto;
+    margin: 6px 30px;
+
+
+}
+
+
+
+div.card-b > img{
+    display: block;
+    width: auto;
+   margin: 7px 30px;
+}
